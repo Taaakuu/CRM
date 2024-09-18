@@ -1,0 +1,12 @@
+com/itexam/springbootmybatis/SpringbootMybatisApplication.class
+com/itexam/model/Custom.class
+com/itexam/springbootmybatis/service/UserService.class
+com/itexam/springbootmybatis/service/impl/UserServiceImpl.class
+com/itexam/model/CustomExample.class
+com/itexam/model/CustomExample$Criterion.class
+com/itexam/model/CustomExample$GeneratedCriteria.class
+com/itexam/springbootmybatis/mapper/UserMapper.class
+com/itexam/springbootmybatis/pojo/User.class
+com/itexam/model/CustomExample$Criteria.class
+com/itexam/controller/UserController.class
+com/itexam/springbootmybatis/SpringbootMybatisApplication$1.class
