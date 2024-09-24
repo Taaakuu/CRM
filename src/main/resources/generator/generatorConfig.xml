@@ -39,7 +39,7 @@
         </sqlMapGenerator>
 
         <!-- 配置接口位置 -->
-        <javaClientGenerator targetPackage="com.itexam.mapper" type="XMLMAPPER" targetProject="src\main\java">
+        <javaClientGenerator targetPackage="com.itexam.springbootmybatis.mapper" type="XMLMAPPER" targetProject="src\main\java">
         </javaClientGenerator>
 
 
