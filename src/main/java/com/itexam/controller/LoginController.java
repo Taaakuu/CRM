@@ -1,4 +1,4 @@
-package com.itexam.controllers;
+package com.itexam.controller;
 
 
 import java.nio.charset.Charset;
